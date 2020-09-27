@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Marton Olbei's CV
 ---
-# Isaac Newton
+# Marton Olbei
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
