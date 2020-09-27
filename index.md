@@ -6,11 +6,11 @@ title: Marton Laszlo Olbei's CV
 Computational Biologist
 
 <div id="webaddress">
-<a href="marton.olbei@earlham.ac.uk">marton.olbei@earlham.ac.uk</a>
-<a href="https://www.linkedin.com/in/marton-olbei/">My linkedin page</a> - 
-   <a href="https://github.com/olbeimarton"><i class="fab fa-github"></i> olbeimarton</a> - 
+<a href="marton.olbei@earlham.ac.uk">marton.olbei@earlham.ac.uk</a> - 
+<a href="https://www.linkedin.com/in/marton-olbei/">linkedin</a> - 
+   <a href="https://github.com/olbeimarton"><i class="fab fa-github"></i> github</a> - 
   <a href="https://orcid.org/0000-0002-4903-6237"><i class="ai ai-orcid"></i> 0000-0002-4903-6237</a> - 
-  <a href="https://www.researchgate.net/profile/Marton_Olbei"><i class="ai ai-researchgate"></i> Marton Olbei</a> - 
+  <a href="https://www.researchgate.net/profile/Marton_Olbei"><i class="ai ai-researchgate"></i> researchgate</a> - 
   <a href="https://twitter.com/martonolbei"><i class="fab fa-twitter"></i> @martonolbei</a>
 </div>
 
