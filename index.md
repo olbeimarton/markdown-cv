@@ -1,91 +1,70 @@
 ---
 layout: cv
-title: Marton Olbei's CV
+title: Marton Laszlo Olbei's CV
 ---
-# Marton Olbei
-Physicist, Mathematician, Cambridge professor.
+# Marton Laszlo Olbei
+Computational Biologist
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="marton.olbei@earlham.ac.uk">marton.olbei@earlham.ac.uk</a>
+| <a href="https://www.linkedin.com/in/marton-olbei/">My linkedin page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Completing a PhD at the Earlham and Quadram Institutes in Norwich, UK
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Understanding host adaptation in *Salmonella* serovars, using systems biology and multi-omics approaches; analysis and generation of biological networks
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Biological Networks, Genomics, *Salmonella*
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2016 - now`
+__PhD, University of East Anglia, Norwich, UK__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2014 - 2016`
+__MSc, Molecular Genetics, Cell- and Developmental Biology, Eotvos Lorand University, Budapest, HU__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
+`2010 - 2014`
+__BSc, Biology, Eotvos Lorand University, Budapest, HU__
 
 
 ## Publications
+`2020`
+Demeter, A., Romero-Mulero, M. C., Csabai, L., **Ölbei, M.**, Sudhakar, P., Haerty, W., & Korcsmáros, T. (2020). ULK1 and ULK2 are less redundant than previously thought: computational analysis uncovers distinct regulation and functions of these autophagy induction proteins. *Scientific reports*, 10(1), 10940. https://doi.org/10.1038/s41598-020-67780-2
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+Mehta T.K., Koch C., Nash W., Knaack S.A., Sudhakar P., **Olbei M.**, Bastkowski S., Penso-Dolfin L., Korcsmaros T., Haerty W., Roy S., Di-Palma F. Evolution of regulatory networks associated with traits under selection in cichlids *bioRxiv* 496034; doi: https://doi.org/10.1101/496034 
 
-### Journals
+Treveil A., Bohar B., Sudhakar P., Gul L., Csabai L., Olbei M., Poletti M., Madgwick M., Andrighetti T., Hautefort I., Modos D., Korcsmaros T. ViralLink: An integrated workflow to investigate the effect of SARS-CoV-2 on intracellular signalling and regulatory pathways *bioRxiv* 2020.06.23.167254; doi: https://doi.org/10.1101/2020.06.23.167254 
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Treveil A, Sudhakar P, Matthews ZJ, Wrzesiński T, Jones EJ, Brooks J, **Ölbei M**, Hautefort I, Hall LJ, Carding SR, Mayer U, Powell PP, Wileman T, Di Palma F, Haerty W, Korcsmáros T. Regulatory network analysis of Paneth cell and goblet cell enriched gut organoids using transcriptomics approaches. *Mol Omics.* 2020 Feb 17;16(1):39-58. doi: 10.1039/c9mo00130a. PMID: 31819932.
 
-`1669`
-Lectiones opticæ.
+`2019`
 
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+**Olbei M**, Kingsley RA, Korcsmaros T, Sudhakar P. Network Biology Approaches to Identify Molecular and Systems-Level Differences Between Salmonella Pathovars. *Methods Mol Biol.* 2019;1918:265-273. doi: 10.1007/978-1-4939-9000-9_21. PMID: 30580415.
 
 
-## Occupation
+`2018`
 
-`1600`
-__Royal Mint__, London
+Csabai L, **Ölbei M**, Budd A, Korcsmáros T, Fazekas D. SignaLink: Multilayered Regulatory Networks. *Methods Mol Biol.* 2018;1819:53-73. doi: 10.1007/978-1-4939-8618-7_3. PMID: 30421399.
 
-- Warden
-- Minted coins
+`2017`
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+Métris A, Sudhakar P, Fazekas D, Demeter A, Ari E, **Olbei M**, Branchu P, Kingsley RA, Baranyi J, Korcsmáros T. SalmoNet, an integrated network of ten Salmonella enterica strains reveals common and distinct pathways to host adaptation. *NPJ Syst Biol Appl.* 2017 Oct 18;3:31. doi: 10.1038/s41540-017-0034-z. PMID: 29057095; PMCID: PMC5647365.
+
+
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Sep 2020 -->
 
 
