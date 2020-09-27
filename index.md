@@ -1,5 +1,5 @@
 ---
-layout: davewhipp
+layout: cv
 title: Marton Olbei's CV
 ---
 # Marton Olbei
