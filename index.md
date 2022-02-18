@@ -6,31 +6,26 @@ title: Marton Laszlo Olbei's CV
 Computational Biologist
 
 <div id="webaddress">
-<a href="marton.olbei@earlham.ac.uk">marton.olbei@earlham.ac.uk</a> - 
-<a href="https://www.linkedin.com/in/marton-olbei/">linkedin</a> - 
-   <a href="https://github.com/olbeimarton"><i class="fab fa-github"></i> github</a> - 
-  <a href="https://orcid.org/0000-0002-4903-6237"><i class="ai ai-orcid"></i> 0000-0002-4903-6237</a> - 
-  <a href="https://www.researchgate.net/profile/Marton_Olbei"><i class="ai ai-researchgate"></i> researchgate</a> - 
-  <a href="https://twitter.com/martonolbei"><i class="fab fa-twitter"></i> @martonolbei</a>
+<a href="marton.olbei@earlham.ac.uk">marton.olbei@earlham.ac.uk</a>
+| <a href="https://www.linkedin.com/in/marton-olbei/">My linkedin page</a>
 </div>
 
 
 ## Currently
 
-Completing a PhD at the Earlham and Quadram Institutes in Norwich, UK
+Postdoctoral Research Scientist at the Earlham Institute, Norwich, UK.
 
 ### Specialized in
 
-Understanding host adaptation in *Salmonella* serovars, using systems biology and multi-omics approaches; analysis and generation of biological networks
-
+Studying intercellular interactions driven by cytokines, and understanding how cytokines might affect each other.
 ### Research interests
 
-Biological Networks, Genomics, _Salmonella_
+Biological Networks, Genomics, IBD
 
 
 ## Education
 
-`2016 - now`
+`2016 - 2021`
 __PhD, University of East Anglia, Norwich, UK__
 
 `2014 - 2016`
@@ -41,17 +36,29 @@ __BSc, Biology, Eotvos Lorand University, Budapest, HU__
 
 
 ## Publications
+'2022'
+Thomas JP, **Olbei M**, Johanne B, Korcsmaros T., Modos D. Analysing miRNA-Target Gene Networks in Inflammatory Bowel Disease and Other Complex Diseases Using Transcriptomic Data. *Genes* 2022 Feb 18;13(2), 370. doi: 10.3390/genes13020370 
+
+
+`2021`
+
+Ostaszewski M, Niarakis A, Mazein A, Kuperstein I, Phair R, Orta-Resendiz A, Singh V, Aghamiri SS, Acencio ML, Glaab E, Ruepp A, Fobo G, Montrone C, Brauner B, Frishman G, Monraz Gómez LC, Somers J, Hoch M, Kumar Gupta S, Scheel J, Borlinghaus H, Czauderna T, Schreiber F, Montagud A, Ponce de Leon M, Funahashi A, Hiki Y, Hiroi N, Yamada TG, Dräger A, Renz A, Naveez M, Bocskei Z, Messina F, Börnigen D, Fergusson L, Conti M, Rameil M, Nakonecnij V, Vanhoefer J, Schmiester L, Wang M, Ackerman EE, Shoemaker JE, Zucker J, Oxford K, Teuton J, Kocakaya E, Summak GY, Hanspers K, Kutmon M, Coort S, Eijssen L, Ehrhart F, Rex DAB, Slenter D, Martens M, Pham N, Haw R, Jassal B, Matthews L, Orlic-Milacic M, Senff-Ribeiro A, Rothfels K, Shamovsky V, Stephan R, Sevilla C, Varusai T, Ravel JM, Fraser R, Ortseifen V, Marchesi S, Gawron P, Smula E, Heirendt L, Satagopam V, Wu G, Riutta A, Golebiewski M, Owen S, Goble C, Hu X, Overall RW, Maier D, Bauch A, Gyori BM, Bachman JA, Vega C, Grouès V, Vazquez M, Porras P, Licata L, Iannuccelli M, Sacco F, Nesterova A, Yuryev A, de Waard A, Turei D, Luna A, Babur O, Soliman S, Valdeolivas A, Esteban-Medina M, Peña-Chilet M, Rian K, Helikar T, Puniya BL, Modos D, Treveil A, **Olbei M**, De Meulder B, Ballereau S, Dugourd A, Naldi A, Noël V, Calzone L, Sander C, Demir E, Korcsmaros T, Freeman TC, Augé F, Beckmann JS, Hasenauer J, Wolkenhauer O, Willighagen EL, Pico AR, Evelo CT, Gillespie ME, Stein LD, Hermjakob H, D'Eustachio P, Saez-Rodriguez J, Dopazo J, Valencia A, Kitano H, Barillot E, Auffray C, Balling R, Schneider R; COVID-19 Disease Map Community. COVID-19 Disease Map, a computational knowledge repository of virus-host interaction mechanisms. Mol Syst Biol. 2021 Dec;17(12):e10851. doi: 10.15252/msb.202110851. Erratum for: *Mol Syst Biol.* 2021 Oct;17(10):e10387. PMID: 34939300; PMCID: PMC8696085.
+
+Csabai L, Fazekas D, Kadlecsik T, Szalay-Bekő M, Bohár B, Madgwick M, Módos D, **Ölbei M**, Gul L, Sudhakar P, Kubisch J, Oyeyemi OJ, Liska O, Ari E, Hotzi B, Billes VA, Molnár E, Földvári-Nagy L, Csályi K, Demeter A, Pápai N, Koltai M, Varga M, Lenti K, Farkas IJ, Türei D, Csermely P, Vellai T, Korcsmáros T. SignaLink3: a multi-layered resource to uncover tissue-specific signaling networks. *Nucleic Acids Res.* 2022 Jan 7;50(D1):D701-D709. doi: 10.1093/nar/gkab909. PMID: 34634810; PMCID: PMC8728204.
+
+**Olbei M**, Thomas JP, Hautefort I, Treveil A, Bohar B, Madgwick M, Gul L, Csabai L, Modos D, Korcsmaros T. CytokineLink: A Cytokine Communication Map to Analyse Immune Responses-Case Studies in Inflammatory Bowel Disease and COVID-19. *Cells.* 2021 Aug 29;10(9):2242. doi: 10.3390/cells10092242. PMID: 34571891; PMCID: PMC8469673.
+
+Türei D, Valdeolivas A, Gul L, Palacio-Escat N, Klein M, Ivanova O, **Ölbei M**, Gábor A, Theis F, Módos D, Korcsmáros T, Saez-Rodriguez J. Integrated intra- and intercellular signaling knowledge for multicellular omics analysis. *Mol Syst Biol.* 2021 Mar;17(3):e9923. doi: 10.15252/msb.20209923. PMID: 33749993; PMCID: PMC7983032.
+
+**Olbei M**, Hautefort I, Modos D, Treveil A, Poletti M, Gul L, Shannon-Lowe CD, Korcsmaros T. SARS-CoV-2 Causes a Different Cytokine Response Compared to Other Cytokine Storm-Causing Respiratory Viruses in Severely Ill Patients. *Front Immunol.* 2021 Mar 1;12:629193. doi: 10.3389/fimmu.2021.629193. PMID: 33732251; PMCID: PMC7956943.
+
+Treveil A, Bohar B, Sudhakar P, Gul L, Csabai L, **Olbei M**, Poletti M, Madgwick M, Andrighetti T, Hautefort I, Modos D, Korcsmaros T. ViralLink: An integrated workflow to investigate the effect of SARS-CoV-2 on intracellular signalling and regulatory pathways. *PLoS Comput Biol.* 2021 Feb 3;17(2):e1008685. doi: 10.1371/journal.pcbi.1008685. PMID: 33534793; PMCID: PMC7886129.
+
+Mehta TK, Koch C, Nash W, Knaack SA, Sudhakar P, **Olbei M**, Bastkowski S, Penso-Dolfin L, Korcsmaros T, Haerty W, Roy S, Di-Palma F. Evolution of regulatory networks associated with traits under selection in cichlids. *Genome Biol.* 2021 Jan 8;22(1):25. doi: 10.1186/s13059-020-02208-8. PMID: 33419455; PMCID: PMC7791837.
+
 `2020`
-
-
-Marek Ostaszewski, Anna Niarakis, Alexander Mazein, Inna Kuperstein, Robert Phair, Aurelio Orta-Resendiz, Vidisha Singh, Sara Sadat Aghamiri, Marcio Luis Acencio, Enrico Glaab, Andreas Ruepp, Gisela Fobo, Corinna Montrone, Barbara Brauner, Goar Frischman, Luis Cristóbal Monraz Gómez, Julia Somers, Matti Hoch, Shailendra Kumar Gupta, Julia Scheel, Hanna Borlinghaus, Tobias Czauderna, Falk Schreiber, Arnau Montagud, Miguel Ponce de Leon, Akira Funahashi, Yusuke Hiki, Noriko Hiroi, Takahiro G. Yamada, Andreas Dräger, Alina Renz, Muhammad Naveez, Zsolt Bocskei, Francesco Messina, Daniela Börnigen, Liam Fergusson, Marta Conti, Marius Rameil, Vanessa Nakonecnij, Jakob Vanhoefer, Leonard Schmiester, Muying Wang, Emily E. Ackerman, Jason Shoemaker, Jeremy Zucker, Kristie Oxford, Jeremy Teuton, Ebru Kocakaya, Gökçe Yağmur Summak, Kristina Hanspers, Martina Kutmon, Susan Coort, Lars Eijssen, Friederike Ehrhart, D. A. B. Rex, Denise Slenter, Marvin Martens, Robin Haw, Bijay Jassal, Lisa Matthews, Marija Orlic-Milacic, Andrea Senff Ribeiro, Karen Rothfels, Veronica Shamovsky, Ralf Stephan, Cristoffer Sevilla, Thawfeek Varusai, Jean-Marie Ravel, Rupsha Fraser, Vera Ortseifen, Silvia Marchesi, Piotr Gawron, Ewa Smula, Laurent Heirendt, Venkata Satagopam, Guanming Wu, Anders Riutta, Martin Golebiewski, Stuart Owen, Carole Goble, Xiaoming Hu, Rupert W. Overall, Dieter Maier, Angela Bauch, Benjamin M. Gyori, John A. Bachman, Carlos Vega, Valentin Grouès, Miguel Vazquez, Pablo Porras, Luana Licata, Marta Iannuccelli, Francesca Sacco, Anastasia Nesterova, Anton Yuryev, Anita de Waard, Denes Turei, Augustin Luna, Ozgun Babur, Sylvain Soliman, Alberto Valdeolivas, Marina Esteban-Medina, Maria Peña-Chilet, Tomáš Helikar, Bhanwar Lal Puniya, Dezso Modos, Agatha Treveil, **Marton Olbei**, Bertrand De Meulder, Aurélien Dugourd, Aurelien Naldi, Vincent Noel, Laurence Calzone, Chris Sander, Emek Demir, Tamas Korcsmaros, Tom C. Freeman, Franck Augé, Jacques S. Beckmann, Jan Hasenauer, Olaf Wolkenhauer, Egon L. Wilighagen, Alexander R. Pico, Chris T. Evelo, Marc E. Gillespie, Lincoln D. Stein, Henning Hermjakob, Peter D’Eustachio, Julio Saez-Rodriguez, Joaquin Dopazo, Alfonso Valencia, Hiroaki Kitano, Emmanuel Barillot, Charles Auffray, Rudi Balling, Reinhard Schneider, the COVID-19 Disease Map Community **COVID-19 Disease Map, a computational knowledge repository of SARS-CoV-2 virus-host interaction mechanisms**
-*bioRxiv* 2020.10.26.356014; doi: https://doi.org/10.1101/2020.10.26.356014 
-
 Demeter, A., Romero-Mulero, M. C., Csabai, L., **Ölbei, M.**, Sudhakar, P., Haerty, W., & Korcsmáros, T. (2020). ULK1 and ULK2 are less redundant than previously thought: computational analysis uncovers distinct regulation and functions of these autophagy induction proteins. *Scientific reports*, 10(1), 10940. https://doi.org/10.1038/s41598-020-67780-2
 
-Mehta T.K., Koch C., Nash W., Knaack S.A., Sudhakar P., **Olbei M.**, Bastkowski S., Penso-Dolfin L., Korcsmaros T., Haerty W., Roy S., Di-Palma F. Evolution of regulatory networks associated with traits under selection in cichlids *bioRxiv* 496034; doi: https://doi.org/10.1101/496034 
-
-Treveil A., Bohar B., Sudhakar P., Gul L., Csabai L., Olbei M., Poletti M., Madgwick M., Andrighetti T., Hautefort I., Modos D., Korcsmaros T. ViralLink: An integrated workflow to investigate the effect of SARS-CoV-2 on intracellular signalling and regulatory pathways *bioRxiv* 2020.06.23.167254; doi: https://doi.org/10.1101/2020.06.23.167254 
 
 Treveil A, Sudhakar P, Matthews ZJ, Wrzesiński T, Jones EJ, Brooks J, **Ölbei M**, Hautefort I, Hall LJ, Carding SR, Mayer U, Powell PP, Wileman T, Di Palma F, Haerty W, Korcsmáros T. Regulatory network analysis of Paneth cell and goblet cell enriched gut organoids using transcriptomics approaches. *Mol Omics.* 2020 Feb 17;16(1):39-58. doi: 10.1039/c9mo00130a. PMID: 31819932.
 
@@ -75,5 +82,4 @@ Métris A, Sudhakar P, Fazekas D, Demeter A, Ari E, **Olbei M**, Branchu P, King
 <!-- ### Footer
 
 Last updated: Sep 2020 -->
-
 
