@@ -36,7 +36,8 @@ __BSc, Biology, Eotvos Lorand University, Budapest, HU__
 
 
 ## Publications
-'2022'
+`2022`
+
 Thomas JP, **Olbei M**, Johanne B, Korcsmaros T., Modos D. Analysing miRNA-Target Gene Networks in Inflammatory Bowel Disease and Other Complex Diseases Using Transcriptomic Data. *Genes* 2022 Feb 18;13(2), 370. doi: 10.3390/genes13020370 
 
 
